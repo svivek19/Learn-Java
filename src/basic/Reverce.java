@@ -1,3 +1,5 @@
+package basic;
+
 public class Reverce {
     public static void main(String[] args) {
         int num = 42424345;

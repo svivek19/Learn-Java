@@ -1,3 +1,5 @@
+package condition_and_loops;
+
 import java.util.Scanner;
 
 public class CaseCheck {
